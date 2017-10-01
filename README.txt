@@ -11,3 +11,4 @@ untitled.cgi
 /log/log.cgi
      num.dat
      reset.dat
+Directory of log might as well be undefined or empty.It would be up to you if Author wanna analyze strictly.
